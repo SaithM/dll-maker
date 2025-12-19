@@ -63,7 +63,8 @@
 - ✅ 安全沙箱隔离编译
 
 ## 🔮 <span id="vision">项目愿景</span>
-
+🤝 <span id="contribute">贡献指南</span>
+我们热烈欢迎所有形式的贡献！无论你是开发者、设计师、文档作者还是普通用户。
 ### 我们正在解决的问题
 1. **跨语言调用难题**：不同编程语言间的函数调用复杂且易错
 2. **编译门槛过高**：DLL/SO编译需要专业知识，新手难以入门
@@ -116,6 +117,7 @@
 - **数据库**：PostgreSQL + Redis
 - **部署**：Docker + Kubernetes
 - **监控**：Prometheus + Grafana
+
 
 ## 🚀 <span id="quick-start">快速开始</span>
 
