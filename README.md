@@ -1,5 +1,6 @@
 # dll-maker
 "跨平台动态链接库生成工具 | Vue3 + Django | 让小白也能制作DLL/SO | 作者：衡度人生"
+"跨平台动态链接库生成工具 | Vue3 + Django | 让小白也能制作DLL/SO | 作者：衡度人生"
 <p align="center">
   <a href="https://github.com/hengdulife/dll-maker">
     <img src="https://img.shields.io/github/stars/hengdulife/dll-maker?style=for-the-badge&logo=github&color=blue" alt="GitHub星标">
@@ -39,7 +40,7 @@
   <a href="#features">✨ 核心功能</a> •
   <a href="#quick-start">🚀 快速开始</a> •
   <a href="#contribute">🤝 贡献指南</a> •
-  <a href="#sponsor">💖 资助项目</a> •
+  <a href="#sponsor">💖 支持项目</a> •
   <a href="#license">📄 许可证</a>
 </p>
 
