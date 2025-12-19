@@ -181,7 +181,7 @@ DLL Maker是一个有远大愿景的开源项目，旨在**打破编程语言壁
 **支付宝**：
 <img src="https://hengdu.life/zhifubao.png" alt="支付宝收款码" width="200" height="200">
 **微信支付**：
-<img src="https://hengdu.life/shoukuan.jpg" alt="微信收款码" width="200" height="200">
+<img src="https://hengdu.life/weixinpay.png" alt="微信收款码" width="200" height="200">
 - **企业合作**: hengdulife@163.com
 - **技术咨询**: 微信 hengdulife
 
