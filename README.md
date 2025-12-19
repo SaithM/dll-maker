@@ -1,5 +1,5 @@
 # dll-maker
-"跨平台动态链接库生成工具 | Vue3 + Django | 让小白也能制作DLL/SO | 作者：衡度人生"
+Cross-Platform Dynamic Link Library Generator | Vue3 + Django | Making DLL/SO Creation Easy for Everyone | By Hengdu Life
 "跨平台动态链接库生成工具 | Vue3 + Django | 让小白也能制作DLL/SO | 作者：衡度人生"
 <p align="center">
   <a href="https://github.com/hengdulife/dll-maker">
